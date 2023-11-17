@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto;
+}
+
+canvas {
+    margin: 0 auto;
+    border: thin solid black;
+    text-align: center;
+}
+
+span {
+    display: block;
+    margin: 30px auto;
+    width: 300px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}

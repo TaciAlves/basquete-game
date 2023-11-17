@@ -103,7 +103,7 @@ function create() {
 
 
 	var instructions = document.createElement("span");
-	instructions.innerHTML = "Instruções: Arraste rapidamente a bola para arremessá-la na cesta!";
+	instructions.innerHTML = "2023 &copy; Desenvolvido por Taciara.";
 	document.body.appendChild(instructions);
 }
 
